@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.AssemblyInfo.cs
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\WSEI\CleanArchitectureSolution\CleanArchitecture.Grpc\obj\Debug\net8.0\CleanArchitecture.Grpc.MvcApplicationPartsAssemblyInfo.cache
